@@ -1,3 +1,25 @@
+Installing
+
+```
+git clone https://github.com/Morganox/react-parcel.git
+```
+
+```
+npm install
+```
+
+Run dev server - http://localhost:3000
+
+```
+npm run dev
+```
+
+Build assets for production
+
+```
+npm run build
+```
+
 # Why not use create-react-app?
 
 When it comes to creating React projects, most people very naturally reach for create-react-app. There's nothing wrong with that. create-react-app is very handy and I use it often when I just need a React project and don't really care how many dependencies it installs. But, at times, I need something minimal. At those times I don't need the App.test.js file or the image assets.
