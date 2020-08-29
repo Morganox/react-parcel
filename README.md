@@ -1,10 +1,10 @@
 # List
 
-- [Install] (#Installing)
-- [Why not use create-react-app?] (#Why-not-use-create-react-app?)
-- [Webpack alternative] (#Webpack-alternative)
-- [Step by step] (#Step-by-step)
-- [Wrapping up] (#Wrapping-up)
+- [Install](#Installing)
+- [Why not use create-react-app?](#Why-not-use-create-react-app?)
+- [Webpack alternative](#Webpack-alternative)
+- [Step by step](#Step-by-step)
+- [Wrapping up](#Wrapping-up)
 
 ## Installing
 
