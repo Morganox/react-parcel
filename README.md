@@ -5,8 +5,7 @@
 # List
 
 - [Install](#Installing)
-- [Why not use create-react-app?](#Why-not-use-create-react-app?)
-- [Webpack alternative](#Webpack-alternative)
+- [Description](#Description)
 - [Step by step](#Step-by-step)
 - [Wrapping up](#Wrapping-up)
 
@@ -25,6 +24,8 @@ Run dev server - http://localhost:1234
 ```
 npm start
 ```
+
+# Description
 
 ## Why not use create-react-app?
 
