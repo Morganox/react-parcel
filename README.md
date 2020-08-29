@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+	<img width="350" height="350" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </div>
 
 # List
