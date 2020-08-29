@@ -1,3 +1,7 @@
+<div align="center">
+	<img width="500" height="350" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React">
+</div>
+
 # List
 
 - [Install](#Installing)
