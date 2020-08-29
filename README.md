@@ -8,7 +8,7 @@ git clone https://github.com/Morganox/react-parcel.git
 npm install
 ```
 
-Run dev server - http://localhost:3000
+Run dev server - http://localhost:1234
 
 ```
 npm run dev
